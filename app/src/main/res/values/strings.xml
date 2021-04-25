@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">WhoIs</string>
+    <string name="failure_network_connection">No Network Connection.</string>
+    <string name="failure_project_not_selected">Project not selected.</string>
+    <string name="failure_server_error">Server Error</string>
+    <string name="failure_database_error">Database Error</string>
+    <string name="failure_not_found">Fault not found</string>
+    <string name="lbl_title_splash">WELCOME WhoIs</string>
+    <string name="lbl_title_app">Mobile application for facial recognition</string>
+    <string name="lbl_image">Image</string>
+    <string name="value_null">Cannot transform a null value</string>
+    <string name="select_image">Select image</string>
+    <string name="not_permission_location">Not access location</string>
+    <string name="not_permission_camera">Not photo</string>
+    <string name="not_permission_read_external">Not Read External Storage</string>
+    <string name="not_permission_write_external">Not Write External Storage</string>
+    <string name="not_permission_read_phone">Not Read Phone State</string>
+    <string name="not_permission_read_calendar">Not read calendar</string>
+    <string name="not_permission_write_calendar">Not write_calendar</string>
+    <string name="lbl_captured">Captured Faces</string>
+    <string name="lbl_latitude">Latitude:</string>
+    <string name="lbl_longitude">Longitude:</string>
+    <string name="lbl_configuration">Configuration</string>
+    <string name="lbl_capture">Capture</string>
+    <string name="lbl_identify">Identify faces</string>
+    <string name="lbl_tracking">Tracking</string>
+    <string name="lbl_date">Date:</string>
+    <string name="failure_data_not_found">Data not found</string>
+    <string name="lbl_name">Name:</string>
+    <string name="lbl_document">Document:</string>
+    <string name="msg_connect_ok">Successful Request</string>
+    <string name="msg_error_connection_other">Connection Some Other Error</string>
+    <string name="lbl_option_size_50">Face size 50%</string>
+    <string name="lbl_option_size_40">Face size 40%</string>
+    <string name="lbl_option_size_30">Face size 30%</string>
+    <string name="lbl_option_size_20">Face size 20%</string>
+    <string name="lbl_option_java">Java</string>
+    <string name="lbl_option_native">Native</string>
+    <string name="lbl_delete">Delete</string>
+    <string name="lbl_number_faces">Number of faces:</string>
+    <string name="lbl_identified_faces">Identified faces:</string>
+
+</resources>
